@@ -38,6 +38,9 @@ public class ActivityA extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //Set the user interface layout for this Activity
+        // The layout file is defined in the project res/layout/activity_a.xml
         setContentView(R.layout.activity_a);
         mActivityName = getString(R.string.activity_a);
         mStatusView = (TextView)findViewById(R.id.status_view_a);

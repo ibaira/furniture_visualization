@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/silvia/workspace/shop_list_route/activity-lifecycle1/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="/home/silvia/workspace/shop_list_route/activity-lifecycle1/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_0188d9621404d5ccc19b613c4db28b8e9affa7d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/silvia/workspace/shop_list_route/activity-lifecycle1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="937c254e193f3bb3ea58fd0049dbbd8f8dea9a38">
+        <dex dex="/home/silvia/workspace/shop_list_route/activity-lifecycle1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fbaaaacfa9aef9c65a15499289de0ba660be9a4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/silvia/workspace/shop_list_route/activity-lifecycle1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5c45b75dae48c919bdaca92a47b5d6fce49e595">
+        <dex dex="/home/silvia/workspace/shop_list_route/activity-lifecycle1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b1c866cf2b4ee53edf1d07161ba1c3225a317dcb/classes.dex" />
+    </item>
+
+</items>
