@@ -1,2 +1,2 @@
-# furniture_visualization
-App for virtual visualization of pieces of furniture or other products on the smartphone
+# shop_list_route
+Learning Android with Android Studio during JunctionHack2016 :)
